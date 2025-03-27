@@ -50,7 +50,11 @@ Console.WriteLine(scissors);
 Heap1.UsunElem(10);
 Heap1.Wydrukuj();
 
+
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("CopyRights Anastasiia Bzova 66617");
 Console.ReadLine();
+Console.ResetColor();
 //
 
 
