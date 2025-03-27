@@ -14,6 +14,7 @@
 //– 2 index + 2(right child)
 
 string scissors = "\n8<----------------------------------------------------------";
+Console.ResetColor();
 
 //MAIN
 //Tworzenie kopca
